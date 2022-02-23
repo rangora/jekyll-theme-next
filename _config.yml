@@ -6,10 +6,10 @@
 # Site
 title: STATIC FIELD
 subtitle: what is subtitle
-description: description??
+description: where is description
 author: rangora
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
-language: en
+language: ko
 date_format: '%Y-%m-%d'
 
 # URL

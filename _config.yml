@@ -152,8 +152,8 @@ menu_icons:
 
 # Schemes
 scheme: Muse
-#scheme: Mist
-#scheme: Pisces
+#scheme: Mist(https://dandyxu.me/)
+#scheme: Pisces(https://blog.zzbd.org/)
 
 
 # ---------------------------------------------------------------
@@ -241,7 +241,7 @@ toc:
   enable: true
 
   # Automatically add list number to toc.
-  number: true
+  number: false
 
   # If true, all words will placed on next lines if header width longer then sidebar width.
   wrap: false

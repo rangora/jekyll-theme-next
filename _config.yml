@@ -462,7 +462,7 @@ gitalk:
 #google_site_verification:
 
 # Google Analytics
-google_analytics: G-6842YREQ36
+google_analytics: "G-6842YREQ36"
 
 # Yandex Webmaster tools verification setting
 # See: https://webmaster.yandex.ru/

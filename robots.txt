@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rangora.github.io/sitemap.xml

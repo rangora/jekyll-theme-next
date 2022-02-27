@@ -5,9 +5,9 @@
 
 # Site
 title: STATIC FIELD
-subtitle: what is subtitle
-description: where is description
-author: rangora
+subtitle: 게임 개발 하고싶은 사람 블로그
+description: (っu_u)っ
+author: Rangora
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: ko
 date_format: '%Y-%m-%d'
@@ -233,7 +233,7 @@ social_icons:
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-avatar: /assets/images/niko_cry.png
+avatar: /assets/images/profile_image.png
 
 
 # Table Of Contents in the Sidebar
